@@ -1,4 +1,3 @@
-# Jenkinsfile
 pipline{
 	agent any
 
